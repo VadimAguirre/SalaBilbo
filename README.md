@@ -4,7 +4,7 @@ Proyecto en equipo de Despliegue de Aplicaciones Web.
 
 ## Equipo
 
-<!-- Cada miembro añade aquí una línea con su nombre, su usuario de GitHub y su rol -->
+- Aaron Ferreras (@aaron-fer) · Persona A · Scrum Master del sprint 1
 
 ## Cómo trabajamos
 
